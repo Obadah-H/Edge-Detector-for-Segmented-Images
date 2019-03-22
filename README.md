@@ -17,13 +17,14 @@ Once, I had to train an edge detector with a database which doesn't contain edge
 * selected_object: The color of object to "detect" in case select_object=True
 
 ### Thickness
-It uses the square way of choose the pixels.
+The square way of choosing the pixels is used to express the thickness.
 
 <p align="center"> <img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/README_files/thickness.png?raw=true"> </p>
 
 ### Example
 
 This example shows the output of edge detection of a segmented image, and the output when detecting cars only.
+
 <img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/input/2.png?raw=true" width="290" height="217"> <img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/output/2.png?raw=true" width="290" height="217"> <img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/output_cars/2.png?raw=true" width="290" height="217">
 
 ## License
