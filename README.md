@@ -1,0 +1,1 @@
+# Edge-Detector-for-Segmented-Images
