@@ -1,5 +1,5 @@
 # Edge Detector for Segmented Images
-Once, I had to train an edge detector with a database which doesn't contain edges, it contained only images and their segmentations. As a lazy person, I searched quickly in the internet and didn't find something ready to convert them to edges. So, I wrote this script.
+Once, I had to train an edge detector with a database which contained images and their segmentations instead of edges. As a lazy person, I googled for something ready to convert them to edges, but didn't find anything. So, I wrote this script.
 
 ## Features
 * "Detect" edges of segmented images
